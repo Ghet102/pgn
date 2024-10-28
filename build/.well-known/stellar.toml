@@ -1,29 +1,28 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDUD35YVDNHH2A5GAP4WCLFNT5T2G2CLDKFVJ5O5OWGT3CMSSRLMTAUR",
+"GA6RFEUXISZ2AMAB6IKBOVBXC5TKLGML43G657VDZEPDCCMC35OTAGET",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="TaurusHQ"
-ORG_URL="https://www.taurushq.com"
-ORG_DESCRIPTION=""
-ORG_LOGO="https://i.ibb.co/m872xkY/image.png"
+ORG_NAME="Pagani Automobili"
+ORG_URL="https://pagani-stellar.org"
+ORG_DESCRIPTION="Pagani Automobili is an Italian luxury hypercar manufacturer, renowned for its handcrafted, exclusive vehicles blending art and engineering. Each Pagani car showcases cutting-edge performance, bespoke design, and unparalleled craftsmanship."
+ORG_LOGO="https://i.ibb.co/0js6212/pagani.png"
 
 [[PRINCIPALS]]
-name="Bret Vorhees"
+name="Horacio Pagani"
 
 
 [[CURRENCIES]]
-code="TAURUS"
+code="PAGANI"
 status="live"
 display_decimals=2
-issuer="GDUD35YVDNHH2A5GAP4WCLFNT5T2G2CLDKFVJ5O5OWGT3CMSSRLMTAUR"
+issuer="GA6RFEUXISZ2AMAB6IKBOVBXC5TKLGML43G657VDZEPDCCMC35OTAGET"
 anchor_asset_type="crypto"
-name="TaurusHQ"
-desc="TAURUSHQ is a Swiss-based company providing enterprise-grade digital asset infrastructure for financial institutions. Their platform allows for the custody, issuance, and management of digital assets including cryptocurrencies, tokenized assets, and digital currencies. They serve major financial institutions across Europe and beyond, offering solutions for secure storage, tokenization, and real-time asset management​"
-image="https://i.ibb.co/m872xkY/image.png"
-fixed_number=10000000
-max_number=10000000
+name="Pagani Automobili"
+desc="Pagani Automobili is an Italian luxury hypercar manufacturer, renowned for its handcrafted, exclusive vehicles blending art and engineering. Each Pagani car showcases cutting-edge performance, bespoke design, and unparalleled craftsmanship.​"
+image="https://i.ibb.co/0js6212/pagani.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#Taurus was issued using the open and inclusive Stellar blockchain network.
