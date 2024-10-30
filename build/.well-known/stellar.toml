@@ -2,6 +2,7 @@ VERSION="2.2.1"
 
 ACCOUNTS=[
 "GA6RFEUXISZ2AMAB6IKBOVBXC5TKLGML43G657VDZEPDCCMC35OTAGET",
+"GALPDL3ZWJPJAXTX4ETLIMAVL3QVW6Y5WV66N3XCV7EUBYHP255AMIK6",
 ]
 
 [DOCUMENTATION]
@@ -26,3 +27,17 @@ image="https://i.ibb.co/0js6212/pagani.png"
 fixed_number=1000000
 max_number=1000000
 is_unlimited=false
+
+[[CURRENCIES]]
+code="PAGANI"
+status="live"
+display_decimals=2
+issuer="GALPDL3ZWJPJAXTX4ETLIMAVL3QVW6Y5WV66N3XCV7EUBYHP255AMIK6"
+anchor_asset_type="realestate"
+name="W347 Track Estate"
+desc="W347 Track Estate offers Whiplash subscribers exclusive luxury real estate with thrilling views right at the edge of the W347 Track.​"
+image="https://i.ibb.co/DWyLRps/w347.png"
+fixed_number=1000000
+max_number=1000000
+is_unlimited=false
+
